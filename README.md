@@ -1,3 +1,5 @@
 # DE UTEC
 - Introduccion
-- Metologia
+- Metodologia
+- X-Learner
+- R-Learner
